@@ -17,8 +17,6 @@
   </dependencies>
   <build>
     <finalName>Projectdk</finalName>
-  </build>
-  <build>
     <plugins>
       <plugin>
         <artifactId>maven-clean-plugin</artifactId>
